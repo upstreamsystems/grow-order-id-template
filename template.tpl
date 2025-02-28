@@ -15,7 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Grow - Order ID",
   "categories": ["ATTRIBUTION", "MARKETING", "PERSONALIZATION", "REMARKETING", "CONVERSIONS"],
-  "description": "Captures the order ID from the data layer",
+  "description": "Retrieves the Order ID from Grow’s eCommerce platform for use in your Google Tag Manager container. This variable can help ensure accurate order tracking and reporting.",
   "containerContexts": [
     "WEB"
   ]
@@ -150,6 +150,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 11/04/2024, 14:10:05
+Created on 2/28/2025, 11:56:47 AM
 
 
