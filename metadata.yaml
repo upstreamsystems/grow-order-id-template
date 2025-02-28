@@ -3,3 +3,5 @@ documentation: ""
 versions:
   - sha: a8c0dd436062c269cafbbe1ca334c711a73e1599
     changeNotes: Initial release
+  - sha: f84c72fabb8a79380f9fa27c7adfa293fe098d16
+    changeNotes: Update template description
